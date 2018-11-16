@@ -7,3 +7,19 @@ Author URI: 09duncan
 Template: twentyseventeen
 Version: 0.1.0
 */
+
+p {
+  color: #3D85C6; /* curious blue */
+}
+
+.menu-social-links {
+  color: #A30000; /* dark red */
+}
+
+.site-info {
+  display: none;
+}
+
+.widget-title {
+  color: #A30000; /* dark red */
+}

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - MetaSlider - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-10-15 21:16:51+0000\n"
+"PO-Revision-Date: 2018-10-25 21:24:43+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,104 +11,123 @@ msgstr ""
 "Language: en_CA\n"
 "Project-Id-Version: Plugins - MetaSlider - Stable (latest release)\n"
 
-#: themes/manifest.php:123
-msgid "The Nivo Dark theme."
-msgstr "The Nivo Dark theme."
+#: themes/manifest.php:174
+msgid "The Nivo Dark theme included here for legacy purposes. Note: only works with Nivo Slider"
+msgstr "The Nivo Dark theme included here for legacy purposes. Note: only works with Nivo Slider"
 
-#: themes/manifest.php:115
-msgid "The Nivo Bar theme."
-msgstr "The Nivo Bar theme."
+#: themes/manifest.php:166
+msgid "The Nivo Bar theme included here for legacy purposes. Note: only works with Nivo Slider"
+msgstr "The Nivo Bar theme included here for legacy purposes. Note: only works with Nivo Slider"
 
-#: themes/manifest.php:107
-msgid "The Nivo Light theme."
-msgstr "The Nivo Light theme."
+#: themes/manifest.php:158
+msgid "The Nivo Light theme included here for legacy purposes. Note: only works with Nivo Slider"
+msgstr "The Nivo Light theme included here for legacy purposes. Note: only works with Nivo Slider"
 
-#: themes/manifest.php:71 themes/manifest.php:80 themes/manifest.php:89
-#: themes/manifest.php:98
-msgid "TBC"
-msgstr "TBC"
+#: themes/manifest.php:149
+msgid "A minimalist theme that gets out of the way so you can showcasing your beautiful pictures."
+msgstr "A minimalist theme that gets out of the way so you can showcasing your beautiful pictures."
 
-#: themes/manifest.php:41
-msgid "A modern, clean no-frills design that was build to blend in with most themes."
-msgstr "A modern, clean no-frills design that was build to blend in with most themes."
+#: themes/manifest.php:140
+msgid "A bold and clear design that works well on a darker images."
+msgstr "A bold and clear design that works well on a darker images."
+
+#: themes/manifest.php:131
+msgid "This theme has a unique design that gives it a sophisticated look."
+msgstr "This theme has a unique design that gives it a sophisticated look."
+
+#: themes/manifest.php:100
+msgid "This theme has a special additional functionality that uses image titles as the slide navigation. "
+msgstr "This theme has a special additional functionality that uses image titles as the slide navigation. "
+
+#: themes/manifest.php:91
+msgid "A simple theme that neatly blends into any existing website."
+msgstr "A simple theme that neatly blends into any existing website."
+
+#: themes/manifest.php:82
+msgid "A futuristic and linear design that goes will with a dark background."
+msgstr "A futuristic and linear design that goes will with a dark background."
+
+#: themes/manifest.php:73
+msgid "This theme places the controls vertically for a unique look."
+msgstr "This theme places the controls vertically for a unique look."
 
 #: themes/manifest.php:32
-msgid "A modern, minimalist theme for showcasing your beautiful pictures."
-msgstr "A modern, minimalist theme for showcasing your beautiful pictures."
+msgid "A fun, circular design to brighten up your site. This theme works well with dark images"
+msgstr "A fun, circular design to brighten up your site. This theme works well with dark images"
 
-#: themes/manifest.php:14 themes/manifest.php:23
-msgid "Description TBC"
-msgstr "Description TBC"
+#: themes/manifest.php:23
+msgid "A clean, subtle theme that features block arrows and bold design."
+msgstr "A clean, subtle theme that features block arrows and bold design."
 
-#: ml-slider.php:2101
+#: themes/manifest.php:14
+msgid "A simple, slick square design that looks good on darker images."
+msgstr "A simple, slick square design that looks good on darker images."
+
+#: admin/slideshows/Themes.php:159
+msgid "Your selected theme is no longer available. Was the folder deleted?"
+msgstr "Your selected theme is no longer available. Was the folder deleted?"
+
+#: themes/manifest.php:41
+msgid "A minimilistic, no-frills design that was built to blend in with most themes."
+msgstr "A minimalistic, no-frills design that was built to blend in with most themes."
+
+#: ml-slider.php:2075
 msgid "Copy all code"
 msgstr "Copy all code"
 
-#: ml-slider.php:2098
+#: ml-slider.php:2072
 msgid "Show title"
 msgstr "Show title"
 
-#: ml-slider.php:2067
+#: ml-slider.php:2041
 msgid "Post Feed slides can also be used with other slide types to either show one post at a time or in a carousel mode, allowing you to show off a large number of your latest posts in a small amount of space."
 msgstr "Post Feed slides can also be used with other slide types to either show one post at a time or in a carousel mode, allowing you to show off a large number of your latest posts in a small amount of space."
 
-#: ml-slider.php:2066
+#: ml-slider.php:2040
 msgid "Customise and control which post types you want to display, their order and how to restrict posts to certain tags or categories."
 msgstr "Customise and control which post types you want to display, their order and how to restrict posts to certain tags or categories."
 
-#: ml-slider.php:2065
+#: ml-slider.php:2039
 msgid "Show off your <strong>blog posts</strong>, <strong>events</strong>, <strong>WooCommerce products</strong> and other content with <strong>Post Feed</strong>."
 msgstr "Show off your <strong>blog posts</strong>, <strong>events</strong>, <strong>WooCommerce products</strong> and other content with <strong>Post Feed</strong>."
 
-#: ml-slider.php:2040
+#: ml-slider.php:2014
 msgid "Create a slideshow full of your favorite videos easily and quickly by simply adding a URL to a YouTube slide."
 msgstr "Create a slideshow full of your favourite videos easily and quickly by simply adding a URL to a YouTube slide."
 
-#: ml-slider.php:2016 ml-slider.php:2042
+#: ml-slider.php:1990 ml-slider.php:2016
 msgid "You could even have the slider autoplay a video, giving you a smooth, completely automatic presentation!"
 msgstr "You could even have the slider autoplay a video, giving you a smooth, completely automatic presentation!"
 
-#: ml-slider.php:2015 ml-slider.php:2041
+#: ml-slider.php:1989 ml-slider.php:2015
 msgid "Features include an automatic play/pause function, in which your slideshow will detect when you set a video to play and continue once the video has finished."
 msgstr "Features include an automatic play/pause function, in which your slideshow will detect when you set a video to play and continue once the video has finished."
 
-#: ml-slider.php:2014
+#: ml-slider.php:1988
 msgid "Create a slideshow full of your favorite videos easily and quickly by simply adding a URL to a Vimeo slide."
 msgstr "Create a slideshow full of your favourite videos easily and quickly by simply adding a URL to a Vimeo slide."
 
-#: ml-slider.php:1991 ml-slider.php:2018 ml-slider.php:2044 ml-slider.php:2069
+#: ml-slider.php:1965 ml-slider.php:1992 ml-slider.php:2018 ml-slider.php:2043
 msgid "Opens in a new window"
 msgstr "Opens in a new window"
 
-#: ml-slider.php:1990 ml-slider.php:2017 ml-slider.php:2043 ml-slider.php:2068
+#: ml-slider.php:1964 ml-slider.php:1991 ml-slider.php:2017 ml-slider.php:2042
 msgid "Find out more about all the features of the Add-on Pack here"
 msgstr "Find out more about all the features of the Add-on Pack here"
 
-#: ml-slider.php:1989
+#: ml-slider.php:1963
 msgid "Additional optimization and customization options including using a video as the slide background, and adjusting the padding and background color of each layer."
 msgstr "Additional optimization and customization options including using a video as the slide background, and adjusting the padding and background colour of each layer."
 
-#: ml-slider.php:1988
+#: ml-slider.php:1962
 msgctxt "Translators: %1$s opens and %2$s closes a strong tag"
 msgid "Layers can include %1$s text, HTML, images, videos %2$s and even %1$s shortcodes%2$s!"
 msgstr "Layers can include %1$s text, HTML, images, videos %2$s and even %1$s shortcodes%2$s!"
 
-#: ml-slider.php:1988
+#: ml-slider.php:1962
 msgctxt "Translators: %s opens and closes a strong tag"
 msgid "Ideal for easily creating eye-catching presentations and slideshows using stunning effects with %s 30 animation options %s and a beautiful, easy to use interface."
 msgstr "Ideal for easily creating eye-catching presentations and slideshows using stunning effects with %s 30 animation options %s and a beautiful, easy to use interface."
-
-#: ml-slider.php:1584
-msgid "Read about it here"
-msgstr "Read about it here"
-
-#: ml-slider.php:1584
-msgid "We're bringing themes to MetaSlider! Preview and apply a professional theme to really make your website stand out."
-msgstr "We're bringing themes to MetaSlider! Preview and apply a professional theme to really make your website stand out."
-
-#: ml-slider.php:1584
-msgid "Coming Soon"
-msgstr "Coming Soon"
 
 #: inc/slide/metaslide.image.class.php:363
 msgid "Schedule"
@@ -167,11 +186,11 @@ msgstr "This slideshow is no longer available."
 msgid "The request format was not valid."
 msgstr "The request format was not valid."
 
-#: ml-slider.php:1662
+#: ml-slider.php:1636
 msgid "Fade in the first slide"
 msgstr "Fade in the first slide"
 
-#: ml-slider.php:1659
+#: ml-slider.php:1633
 msgid "Fade in"
 msgstr "Fade in"
 
@@ -229,23 +248,23 @@ msgstr "Enable this to inherit the caption from the image"
 msgid "Dismiss"
 msgstr "Dismiss"
 
-#: ml-slider.php:2207
+#: ml-slider.php:2181
 msgid "Add-ons / Other Plugins"
 msgstr "Add-ons / Other Plugins"
 
-#: ml-slider.php:2207
+#: ml-slider.php:2181
 msgid "View Add-ons / Other Plugins"
 msgstr "View Add-ons / Other Plugins"
 
-#: ml-slider.php:2109
-msgid "To display your slideshow using id or title , add the following shortcodes (in orange) to your page. If adding the slideshow to your theme files, additionally include the surrounding PHP function (in gray)."
+#: ml-slider.php:2083
+msgid "To display your slideshow using id or title, add the following shortcodes (in orange) to your page. If adding the slideshow to your theme files, additionally include the surrounding PHP function (in gray)."
 msgstr "To display your slideshow using id or title, add the following shortcodes (in orange) to your page. If adding the slideshow to your theme files, additionally include the surrounding PHP function (in grey)."
 
-#: ml-slider.php:1591
+#: ml-slider.php:1565
 msgid "Click to toggle"
 msgstr "Click to toggle"
 
-#: ml-slider.php:2095
+#: ml-slider.php:2069
 msgid "How to Use"
 msgstr "How to Use"
 
@@ -257,55 +276,55 @@ msgstr "Item was copied to your clipboard"
 msgid "Success"
 msgstr "Success"
 
-#: ml-slider.php:2216
+#: ml-slider.php:2190
 msgid "View The Documentation"
 msgstr "View The Documentation"
 
-#: ml-slider.php:2197
+#: ml-slider.php:2171
 msgid "Layout"
 msgstr "Layout"
 
-#: ml-slider.php:2177
+#: ml-slider.php:2151
 msgid "Get The Pro Pack Today!"
 msgstr "Get The Pro Pack Today!"
 
-#: ml-slider.php:2175
+#: ml-slider.php:2149
 msgid "Upgrade Now"
 msgstr "Upgrade Now"
 
-#: ml-slider.php:2139
+#: ml-slider.php:2113
 msgid "Leave a review"
 msgstr "Leave a review"
 
-#: ml-slider.php:2132
+#: ml-slider.php:2106
 msgid "Premium Support"
 msgstr "Premium Support"
 
-#: ml-slider.php:2136
+#: ml-slider.php:2110
 msgid "Support"
 msgstr "Support"
 
-#: ml-slider.php:2130
+#: ml-slider.php:2104
 msgid "Take a tour"
 msgstr "Take a tour"
 
-#: ml-slider.php:1880
+#: ml-slider.php:1854
 msgid "Delete Slideshow"
 msgstr "Delete Slideshow"
 
-#: ml-slider.php:1568
+#: ml-slider.php:1546
 msgid "Trash"
 msgstr "Trash"
 
-#: ml-slider.php:1567
+#: ml-slider.php:1545
 msgid "View trashed slides"
 msgstr "View trashed slides"
 
-#: ml-slider.php:1535
+#: ml-slider.php:1513
 msgid "Filmstrip"
 msgstr "Filmstrip"
 
-#: ml-slider.php:1531
+#: ml-slider.php:1509
 msgid "Thumbnail"
 msgstr "Thumbnail"
 
@@ -596,7 +615,7 @@ msgstr "Installed"
 msgid "pro"
 msgstr "pro"
 
-#: admin/views/pages/upgrade.php:21 ml-slider.php:350 ml-slider.php:2135
+#: admin/views/pages/upgrade.php:21 ml-slider.php:350 ml-slider.php:2109
 msgid "Add-ons"
 msgstr "Add-ons"
 
@@ -828,16 +847,16 @@ msgid "Summer sale - 20% off the MetaSlider Add-on Pack until July 31st"
 msgstr "Summer sale - 20% off the MetaSlider Add-on Pack until July 31st"
 
 #: admin/Notices.php:254
-msgid "Spring sale - 50% off the MetaSlider Add-on Pack until April 30th"
-msgstr "Spring sale - 50% off the MetaSlider Add-on Pack until April 30th"
+msgid "Spring sale - 20% off the MetaSlider Add-on Pack until April 30th"
+msgstr "Spring sale - 20% off the MetaSlider Add-on Pack until April 30th"
 
 #: admin/Notices.php:241
-msgid "Happy New Year - 50% off the MetaSlider Add-on Pack until January 14th"
-msgstr "Happy New Year - 50% off the MetaSlider Add-on Pack until January 14th"
+msgid "Happy New Year - 20% off the MetaSlider Add-on Pack until January 14th"
+msgstr "Happy New Year - 20% off the MetaSlider Add-on Pack until January 14th"
 
 #: admin/Notices.php:228
-msgid "Christmas sale - 50% off the MetaSlider Add-on Pack until December 25th"
-msgstr "Christmas sale - 50% off the MetaSlider Add-on Pack until December 25th"
+msgid "Christmas sale - 20% off the MetaSlider Add-on Pack until December 25th"
+msgstr "Christmas sale - 20% off the MetaSlider Add-on Pack until December 25th"
 
 #: admin/Notices.php:216 admin/Notices.php:229 admin/Notices.php:242
 #: admin/Notices.php:255 admin/Notices.php:268
@@ -845,8 +864,8 @@ msgid "To benefit, use this discount code:"
 msgstr "To benefit, use this discount code:"
 
 #: admin/Notices.php:215
-msgid "Black Friday - 50% off the MetaSlider Add-on Pack until November 30th"
-msgstr "Black Friday - 50% off the MetaSlider Add-on Pack until November 30th"
+msgid "Black Friday - 20% off the MetaSlider Add-on Pack until November 30th"
+msgstr "Black Friday - 20% off the MetaSlider Add-on Pack until November 30th"
 
 #: admin/Notices.php:173
 msgid "Supercharge & secure your WordPress site with our other top plugins:"
@@ -936,411 +955,387 @@ msgstr "Post Feed"
 msgid "Easy to use slideshow plugin. Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides."
 msgstr "Easy to use slideshow plugin. Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides."
 
-#. #-#-#-#-#  ml-slider-code.pot (MetaSlider 3.9.1)  #-#-#-#-#
+#. #-#-#-#-#  ml-slider-code.pot (MetaSlider 3.10.0)  #-#-#-#-#
 #. Plugin URI of the plugin/theme
-#. #-#-#-#-#  ml-slider-code.pot (MetaSlider 3.9.1)  #-#-#-#-#
+#. #-#-#-#-#  ml-slider-code.pot (MetaSlider 3.10.0)  #-#-#-#-#
 #. Author URI of the plugin/theme
 msgid "https://www.metaslider.com"
 msgstr "https://www.metaslider.com"
 
-#: ml-slider.php:1957
+#: ml-slider.php:1931
 msgid "Insert slideshow"
 msgstr "Insert slideshow"
 
-#: ml-slider.php:1951
+#: ml-slider.php:1925
 msgid "Choose slideshow"
 msgstr "Choose slideshow"
 
-#: ml-slider.php:1949
+#: ml-slider.php:1923
 msgid "Insert MetaSlider"
 msgstr "Insert MetaSlider"
 
-#: ml-slider.php:1915
+#: ml-slider.php:1889
 msgid "Add slider"
 msgstr "Add slider"
 
-#: ml-slider.php:1912
+#: ml-slider.php:1886
 msgid "Select slideshow to insert into post"
 msgstr "Select slideshow to insert into post"
 
-#: ml-slider.php:1865
+#: ml-slider.php:1839
 msgid "Delay adding the flexslider class to the slideshow"
 msgstr "Delay adding the flexslider class to the slideshow"
 
-#: ml-slider.php:1862
+#: ml-slider.php:1836
 msgid "No conflict mode"
 msgstr "No conflict mode"
 
-#: ml-slider.php:1857
+#: ml-slider.php:1831
 msgid "Uncheck this is you would like to include your own Javascript"
 msgstr "Uncheck this if you would like to include your own Javascript."
 
-#: ml-slider.php:1854
+#: ml-slider.php:1828
 msgid "Print JS"
 msgstr "Print JS"
 
-#: ml-slider.php:1849
+#: ml-slider.php:1823
 msgid "Uncheck this is you would like to include your own CSS"
 msgstr "Uncheck this if you would like to include your own CSS."
 
-#: ml-slider.php:1846
+#: ml-slider.php:1820
 msgid "Print CSS"
 msgstr "Print CSS"
 
-#: ml-slider.php:1840
+#: ml-slider.php:1814
 msgid "Specify any custom CSS Classes you would like to be added to the slider wrapper"
 msgstr "Specify any custom CSS Classes you would like to have added to the slider wrapper."
 
-#: ml-slider.php:1838
+#: ml-slider.php:1812
 msgid "CSS classes"
 msgstr "CSS classes"
 
-#: ml-slider.php:1833
+#: ml-slider.php:1807
 msgid "Developer options"
 msgstr "Developer options"
 
-#: ml-slider.php:1826
+#: ml-slider.php:1800
 msgid "Set the fade in speed of the caption"
 msgstr "Set the fade in speed of the caption"
 
-#: ml-slider.php:1824
+#: ml-slider.php:1798
 msgid "Caption speed"
 msgstr "Caption speed"
 
-#: ml-slider.php:1813
+#: ml-slider.php:1787
 msgid "Opacity of title and navigation"
 msgstr "Opacity of title and navigation"
 
-#: ml-slider.php:1811
+#: ml-slider.php:1785
 msgid "Opacity"
 msgstr "Opacity"
 
-#: ml-slider.php:1800
+#: ml-slider.php:1774
 msgid "Delay between squares in ms"
 msgstr "Delay between squares in ms"
 
-#: ml-slider.php:1798
+#: ml-slider.php:1772
 msgid "Square delay"
 msgstr "Square delay"
 
-#: ml-slider.php:1787
+#: ml-slider.php:1761
 msgid "Set the text for the 'next' direction item"
 msgstr "Set the text for the 'next' direction item"
 
-#: ml-slider.php:1785
+#: ml-slider.php:1759
 msgid "Next text"
 msgstr "Next text"
 
-#: ml-slider.php:1779
+#: ml-slider.php:1753
 msgid "Set the text for the 'previous' direction item"
 msgstr "Set the text for the 'previous' direction item"
 
-#: ml-slider.php:1777
+#: ml-slider.php:1751
 msgid "Previous text"
 msgstr "Previous text"
 
-#: ml-slider.php:1770
+#: ml-slider.php:1744
 msgid "Animation easing effect"
 msgstr "Animation easing effect"
 
-#: ml-slider.php:1768
+#: ml-slider.php:1742
 msgid "Easing"
 msgstr "Easing"
 
-#: ml-slider.php:1762
+#: ml-slider.php:1736
 msgid "Vertical"
 msgstr "Vertical"
 
-#: ml-slider.php:1761
+#: ml-slider.php:1735
 msgid "Horizontal"
 msgstr "Horizontal"
 
-#: ml-slider.php:1758
+#: ml-slider.php:1732
 msgid "Select the sliding direction"
 msgstr "Select the sliding direction"
 
-#: ml-slider.php:1756
+#: ml-slider.php:1730
 msgid "Slide direction"
 msgstr "Slide direction"
 
-#: ml-slider.php:1735 ml-slider.php:1737 ml-slider.php:1748 ml-slider.php:1750
+#: ml-slider.php:1709 ml-slider.php:1711 ml-slider.php:1722 ml-slider.php:1724
 msgid "Number of squares"
 msgstr "Number of squares"
 
-#: ml-slider.php:1722 ml-slider.php:1724
+#: ml-slider.php:1696 ml-slider.php:1698
 msgid "Number of slices"
 msgstr "Number of slices"
 
-#: ml-slider.php:1711
+#: ml-slider.php:1685
 msgid "Set the speed of animations, in milliseconds"
 msgstr "Set the speed of animations, in milliseconds"
 
-#: ml-slider.php:1709
+#: ml-slider.php:1683
 msgid "Animation speed"
 msgstr "Animation speed"
 
-#: ml-slider.php:1699 ml-slider.php:1712 ml-slider.php:1725 ml-slider.php:1801
-#: ml-slider.php:1827
+#: ml-slider.php:1673 ml-slider.php:1686 ml-slider.php:1699 ml-slider.php:1775
+#: ml-slider.php:1801
 msgid "ms"
 msgstr "ms"
 
-#: ml-slider.php:1698
+#: ml-slider.php:1672
 msgid "How long to display each slide, in milliseconds"
 msgstr "How long to display each slide, in milliseconds"
 
-#: ml-slider.php:1696
+#: ml-slider.php:1670
 msgid "Slide delay"
 msgstr "Slide delay"
 
-#: ml-slider.php:1686
+#: ml-slider.php:1660
 msgid "Reverse the animation direction"
 msgstr "Reverse the animation direction"
 
-#: ml-slider.php:1683
+#: ml-slider.php:1657
 msgid "Reverse"
 msgstr "Reverse"
 
-#: ml-slider.php:1678
+#: ml-slider.php:1652
 msgid "Pause the slideshow when hovering over slider, then resume when no longer hovering."
 msgstr "Pause the slideshow when hovering over slider, then resume when no longer hovering."
 
-#: ml-slider.php:1675
+#: ml-slider.php:1649
 msgid "Hover pause"
 msgstr "Hover pause"
 
-#: ml-slider.php:1670
+#: ml-slider.php:1644
 msgid "Randomise the order of the slides"
 msgstr "Randomise the order of the slides"
 
-#: ml-slider.php:1653
+#: ml-slider.php:1627
 msgid "Pixel margin between slides in carousel."
 msgstr "Pixel margin between slides in carousel."
 
-#: ml-slider.php:1650
+#: ml-slider.php:1624
 msgid "Carousel margin"
 msgstr "Carousel margin"
 
-#: ml-slider.php:1642
+#: ml-slider.php:1616
 msgid "Display multiple slides at once. Slideshow output will be 100% wide."
 msgstr "Display multiple slides at once. Slideshow output will be 100% wide."
 
-#: ml-slider.php:1639
+#: ml-slider.php:1613
 msgid "Carousel mode"
 msgstr "Carousel mode"
 
-#: ml-slider.php:1634
+#: ml-slider.php:1608
 msgid "Smart Crop ensures your responsive slides are cropped to a ratio that results in a consistent slideshow size"
 msgstr "Smart Crop ensures your responsive slides are cropped to a ratio that results in a consistent slideshow size"
 
-#: ml-slider.php:1632
+#: ml-slider.php:1606
 msgid "Disabled (Smart Pad)"
 msgstr "Disabled (Smart Pad)"
 
-#: ml-slider.php:1631
+#: ml-slider.php:1605
 msgid "Disabled"
 msgstr "Disabled"
 
-#: ml-slider.php:1630
+#: ml-slider.php:1604
 msgid "Standard"
 msgstr "Standard"
 
-#: ml-slider.php:1629
+#: ml-slider.php:1603
 msgid "Smart Crop"
 msgstr "Smart Crop"
 
-#: ml-slider.php:1625
+#: ml-slider.php:1599
 msgid "Image Crop"
 msgstr "Image Crop"
 
-#: ml-slider.php:1620
+#: ml-slider.php:1594
 msgid "Transition between slides automatically"
 msgstr "Transition between slides automatically"
 
-#: ml-slider.php:1617
+#: ml-slider.php:1591
 msgid "Auto play"
 msgstr "Auto play"
 
-#: ml-slider.php:1612
+#: ml-slider.php:1586
 msgid "Center align the slideshow"
 msgstr "Center align the slideshow"
 
-#: ml-slider.php:1609
+#: ml-slider.php:1583
 msgid "Center align"
 msgstr "Center align"
 
-#: ml-slider.php:1604
+#: ml-slider.php:1578
 msgid "Stretch the slideshow output to fill it's parent container"
 msgstr "Stretch the slideshow output to fill it's parent container"
 
-#: ml-slider.php:1602
+#: ml-slider.php:1576
 msgid "100% wide output"
 msgstr "100% wide output"
 
-#: ml-slider.php:1600
+#: ml-slider.php:1574
 msgid "Stretch"
 msgstr "Stretch"
 
-#: ml-slider.php:1591
+#: ml-slider.php:1565
 msgid "Advanced Settings"
 msgstr "Advanced Settings"
 
-#: ml-slider.php:1549
+#: ml-slider.php:1527
 msgid "Slideshow title"
 msgstr "Slideshow title"
 
-#: ml-slider.php:1548
+#: ml-slider.php:1526
 msgid "Title"
 msgstr "Title"
 
-#: ml-slider.php:1529
+#: ml-slider.php:1507
 msgid "Dots"
 msgstr "Dots"
 
-#: ml-slider.php:1528
+#: ml-slider.php:1506
 msgid "Hidden"
 msgstr "Hidden"
 
-#: ml-slider.php:1526
+#: ml-slider.php:1504
 msgid "Show the slide navigation bullets"
 msgstr "Show the slide navigation bullets"
 
-#: ml-slider.php:1523
+#: ml-slider.php:1501
 msgid "Navigation"
 msgstr "Navigation"
 
-#: ml-slider.php:1518
+#: ml-slider.php:1496
 msgid "Show the previous/next arrows"
 msgstr "Show the previous/next arrows"
 
-#: ml-slider.php:1515
+#: ml-slider.php:1493
 msgid "Arrows"
 msgstr "Arrows"
 
-#: admin/lib/temporary.php:35
-msgid "Bar (Nivo)"
-msgstr "Bar (Nivo)"
-
-#: admin/lib/temporary.php:34
-msgid "Light (Nivo)"
-msgstr "Light (Nivo)"
-
-#: admin/lib/temporary.php:33
-msgid "Dark (Nivo)"
-msgstr "Dark (Nivo)"
-
-#: admin/lib/temporary.php:32
-msgid "Default"
-msgstr "Standard"
-
-#: admin/lib/temporary.php:30
-msgid "Slideshow theme"
-msgstr "Slideshow theme"
-
-#: admin/lib/temporary.php:28
-msgid "Theme"
-msgstr "Theme"
-
-#: ml-slider.php:1509
+#: ml-slider.php:1487
 msgid "Slide"
 msgstr "Slide"
 
-#: ml-slider.php:1508
+#: ml-slider.php:1486
 msgid "Box Rain Grow Reverse"
 msgstr "Box Rain Grow Reverse"
 
-#: ml-slider.php:1507
+#: ml-slider.php:1485
 msgid "Box Rain Reverse"
 msgstr "Box Rain Reverse"
 
-#: ml-slider.php:1506
+#: ml-slider.php:1484
 msgid "Box Rain"
 msgstr "Box Rain"
 
-#: ml-slider.php:1505
+#: ml-slider.php:1483
 msgid "Box Random"
 msgstr "Box Random"
 
-#: ml-slider.php:1504
+#: ml-slider.php:1482
 msgid "Slide In Left"
 msgstr "Slide In Left"
 
-#: ml-slider.php:1503
+#: ml-slider.php:1481
 msgid "Slide In Right"
 msgstr "Slide In Right"
 
-#: ml-slider.php:1502
+#: ml-slider.php:1480
 msgid "Fade"
 msgstr "Fade"
 
-#: ml-slider.php:1501
+#: ml-slider.php:1479
 msgid "Fold"
 msgstr "Fold"
 
-#: ml-slider.php:1500
+#: ml-slider.php:1478
 msgid "Slide Up Down Left"
 msgstr "Slide Up Down Left"
 
-#: ml-slider.php:1499
+#: ml-slider.php:1477
 msgid "Slice Up Down"
 msgstr "Slice Up Down"
 
-#: ml-slider.php:1498
+#: ml-slider.php:1476
 msgid "Slide Up Left"
 msgstr "Slide Up Left"
 
-#: ml-slider.php:1497
+#: ml-slider.php:1475
 msgid "Slice Up"
 msgstr "Slice Up"
 
-#: ml-slider.php:1496
+#: ml-slider.php:1474
 msgid "Slide Down"
 msgstr "Slide Down"
 
-#: ml-slider.php:1495
+#: ml-slider.php:1473
 msgid "Straight"
 msgstr "Straight"
 
-#: ml-slider.php:1494
+#: ml-slider.php:1472
 msgid "Rain"
 msgstr "Rain"
 
-#: ml-slider.php:1493
+#: ml-slider.php:1471
 msgid "Swirl"
 msgstr "Swirl"
 
-#: ml-slider.php:1492 ml-slider.php:1667
+#: ml-slider.php:1470 ml-slider.php:1641
 msgid "Random"
 msgstr "Random"
 
-#: ml-slider.php:1490
+#: ml-slider.php:1468
 msgid "Slide transition effect"
 msgstr "Slide transition effect"
 
-#: ml-slider.php:1488
+#: ml-slider.php:1466
 msgid "Effect"
 msgstr "Effect"
 
-#: ml-slider.php:1481
+#: ml-slider.php:1459
 msgid "Slideshow height"
 msgstr "Slideshow height"
 
-#: ml-slider.php:1479 ml-slider.php:1748
+#: ml-slider.php:1457 ml-slider.php:1722
 msgid "Height"
 msgstr "Height"
 
-#: ml-slider.php:1469 ml-slider.php:1482 ml-slider.php:1654
+#: ml-slider.php:1447 ml-slider.php:1460 ml-slider.php:1628
 msgid "px"
 msgstr "px"
 
-#: ml-slider.php:1468
+#: ml-slider.php:1446
 msgid "Slideshow width"
 msgstr "Slideshow width"
 
-#: ml-slider.php:1466 ml-slider.php:1735
+#: ml-slider.php:1444 ml-slider.php:1709
 msgid "Width"
 msgstr "Width"
 
-#: ml-slider.php:1438
+#: ml-slider.php:1416
 msgid "Save"
 msgstr "Save"
 
@@ -1356,11 +1351,11 @@ msgstr "Add a New Slideshow"
 msgid "or"
 msgstr "or"
 
-#: ml-slider.php:2195
+#: ml-slider.php:2169
 msgid "Switch to Tab view"
 msgstr "Switch to Tab view"
 
-#: ml-slider.php:2195
+#: ml-slider.php:2169
 msgid "Switch to Dropdown view"
 msgstr "Switch to Dropdown view"
 
@@ -1380,7 +1375,7 @@ msgstr "Select replacement image"
 msgid "Are you sure?"
 msgstr "Are you sure?"
 
-#: ml-slider.php:2138 ml-slider.php:2216
+#: ml-slider.php:2112 ml-slider.php:2190
 msgid "Documentation"
 msgstr "Documentation"
 
@@ -1472,7 +1467,7 @@ msgstr "Failed to add slide. Slide is not an image."
 msgid "Delete slide"
 msgstr "Delete slide"
 
-#: inc/metaslider.widget.class.php:119 ml-slider.php:1959
+#: inc/metaslider.widget.class.php:119 ml-slider.php:1933
 msgid "No slideshows found"
 msgstr "No slideshows found"
 
